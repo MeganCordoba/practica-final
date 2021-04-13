@@ -174,12 +174,13 @@ ol {
 	min-width: 186px;
 	padding: 17px 25px;
 	border-radius: 14px;
-	background: #eb2b63;
-	color: #fff;
+	background: #423F75;
+	color: #F1C40F;
 	line-height: 1;
 	cursor: pointer;
 	text-align: center;
 }
+
 
 .site-btn:hover {
 	color: #fff;
@@ -700,7 +701,7 @@ ol {
 	display: inline-flex;
 	width: 87px;
 	height: 87px;
-	background: #eb2b63;
+	background: #239B56;
 	font-size: 43px;
 	color: #fff;
 	-webkit-box-align: center;
@@ -983,7 +984,7 @@ ol {
 }
 
 .footer-top-section {
-	background: #200545;
+	background: #148F77;
 }
 
 .footer-widget .fw-title {
@@ -1053,6 +1054,9 @@ ol {
 	font-size: 12px;
 	color: #eb2b63;
 }
+.fw-social social{
+	color: #138D75;
+}
 
 /*--------------------
   Footer section
@@ -1087,7 +1091,7 @@ ol {
 
 .copyright {
 	float: left;
-	color: #fff;
+	color: #F1C40F;
 	font-size: 14px;
 	padding-top: 3px;
 	opacity: 0.25;
